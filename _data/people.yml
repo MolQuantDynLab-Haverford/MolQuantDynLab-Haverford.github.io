@@ -1,0 +1,108 @@
+# ***************************************************
+# PROFILE ENTRIES
+# ***************************************************
+
+steve-ndengue:
+    display_name: "Steve Ndengue"
+    webpage: "/people/steve_ndengue.html"
+    role: faculty
+    image: /img/people/steve-ndengue.jpg
+    bio: Senior Lecturer (PI)
+    altbio: Senior Lecturer
+
+ayda-badri:
+    display_name: "Ayda Badri"
+    webpage: "/people/ayda_badri.html"
+    role: postdoc
+    image: /img/people/ayda-badri.jpeg
+    bio: November 2021 - Present
+    altbio: Postdoctoral Fellow
+
+herve-tajouotela:
+    display_name: "Herve Tajouo Tela"
+    webpage: "/people/herve_tajouotela.html"
+    role: grad
+    image: /img/people/herve-tajouotela.jpg
+    bio: January 2020 - Present
+    altbio: PhD Student
+
+sosthene-irambona:
+    display_name: "Sosthene Irambona"
+    webpage: "/people/sosthene_irambona.html"
+    role: grad
+    image: /img/people/sosthene-irambona.jpg
+    bio: November 2021 - Present
+    altbio: PhD Student
+
+wala-elsayed:
+    display_name: "Wala Elsayed"
+    webpage: "/people/wala_elsayed.html"
+    role: grad
+    image: /img/people/wala-elsayed.jpg
+    bio: March 2022 - Present
+    altbio: PhD Student
+
+angebenise-niyikiza:
+    display_name: "Ange Benise Niyikiza"
+    role: msc
+    image: /img/people/angebenise-niyikiza.jpg
+    bio: March 2022 - Present
+    altbio: Master's Student
+    year: 2021
+
+fabien-gatti:
+    display_name: "Fabien Gatti"
+    webpage: "http://www.ismo.universite-paris-saclay.fr/spip.php?rubrique413&lang=fr"
+    role: collab
+    bio: Université Paris-Saclay and CNRS
+    year: Research Professor
+    #altbio: Université Paris-Saclay and CNRS
+
+richard-dawes:
+    display_name: "Richard Dawes"
+    webpage: "https://web.mst.edu/~dawesr/"
+    role: collab
+    bio: NSF and Missouri S&T
+    year: Program Manager
+    #altbio: NSF and Missouri S&T
+
+nicola-marzari:
+    display_name: "Nicola Marzari"
+    webpage: "https://people.epfl.ch/nicola.marzari/?lang=en"
+    role: collab
+    bio: EPFL
+    year: Professor
+    #altbio: EPFL
+
+neepa-maitra:
+    display_name: "Neepa Maitra"
+    webpage: "https://sasn.rutgers.edu/about-us/faculty-staff/neepa-maitra"
+    role: collab
+    bio: Rutgers University-Newark
+    year: Professor
+    #altbio: Rutgers-Newark University
+
+omololu-akinojo:
+    display_name: "Omololu Akin-Ojo"
+    webpage: "https://eaifr.ictp.it/about/director/"
+    role: collab
+    bio: ICTP-EAIFR
+    year: Director
+    #altbio: ICTP-EAIFR
+
+# ***************************************************
+# OTHER PROFILE TYPE TEMPLATES
+# ***************************************************
+
+# postdoc-a:
+#     display_name: "Postdoc A"
+#     role: postdoc
+
+# alum-a:
+#     display_name: "Alum A"
+#     role: alum
+#     bio: "Ph.D., 2013. Now at Microsoft Research."
+
+# ugrad:
+#     display_name: "Ugrad A"
+#     role: ugrad

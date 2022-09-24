@@ -1,0 +1,46 @@
+---
+layout: default
+title: People
+
+picture-role-groups:
+- {roles: [faculty, postdoc, staff], width: 4}
+- {roles: [grad], width: 4}
+- {roles: [msc], width: 4}
+
+no-picture-role-groups:
+- {roles: [alum, collab], width: 12}
+- {roles: [ugrad, ugrad-alum], width: 12}
+---
+
+<p>
+Our members have backgrounds in physics, chemistry, mathematics and materials science. Our group is composed of one faculty member, one postdoctoral researcher, three PhD students, and one Master's level student working on individual and group projects throughout the academic year. Check our profiles below.
+</p>
+
+<!-- <br><br> -->
+
+<section class="people row justify-content-between">
+    {% for role-group in page.picture-role-groups %}
+        <div class="col-md-{{ role-group.width }}">
+            {% for role in role-group.roles %}
+                {% include role-people.html role=role image=true %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+
+    {% for item in site.data.people %}
+        {% assign person = item[1] %}
+        {% if person.role == role.key %}
+            {% include person.html person=person image=true %}
+        {% endif %}
+    {% endfor %}
+</section>
+
+<section class="people row justify-content-between">
+    {% for role-group in page.no-picture-role-groups %}
+        <div class="col-md-{{ role-group.width }}">
+            {% for role in role-group.roles %}
+                {% include role-people.html role=role image=false %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</section>

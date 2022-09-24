@@ -1,0 +1,87 @@
+name:  QDRG@EAIFR
+url: https://eaifr.org/
+
+exclude: [bibble, README.md, Makefile, screenshot.png]
+
+description:
+  The Quantum Dynamics Research Group (QDRG) at ICTP-East African Institute for Fundamental Research, University of Rwanda focuses on developing and using quantum dynamics methods to study processes relevant to atmopsheric chemistry, astrophysics, combustion and catalysis.
+
+# colorize code snippets with the pygments module
+highlighter: pygments
+
+# The path structure for blog posts.
+permalink: /blog/:year/:month/:day/:title.html
+
+# allow future posts
+future: true
+
+# Sections on the "people" page.
+roles:
+  - key: faculty
+    name: Academic Faculty
+  - key: postdoc
+    name: Postdoctoral Researchers
+  - key: grad
+    name: Doctoral Students
+  - key: msc
+    name: Master's Students
+  - key: collab
+    name: Collaborators
+  #- key: alum
+  #  name: Alumni
+  #- key: research-assistant
+  #  name: Research Assistants
+  #- key: research-associate
+  #  name: Research Associates
+  #- key: intern
+  #  name: Interns
+  # - key: ugrad
+  #   name: Undergraduate Students
+
+# Number of news stories on the front page.
+front_page_news: 8
+
+# Number of events on the front page.
+front_page_events: 3
+
+# Base pathname for links.
+base: ''
+
+# make pages for the _projects folder
+collections:
+  projects:
+    output: true
+  past-projects:
+    output: true
+
+# Navigation bar links.
+navigation:
+  - title: Home
+    link: /
+  - title: People
+    link: /people.html
+  - title: Research
+    link: /research.html
+  - title: Publications
+    link: /publications.html
+  - title: EXAF-Project
+    link: /exaf.html
+  - title: Software
+    link: /software.html
+#  - title: Our Testbed
+#    link: https://ralt.hw.ac.uk/
+
+# Google Analytics
+google_analytics: G-P2QM29HGLX
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Social
+social:
+    name: Steve Ndengue
+    links:
+      - https://twitter.com/stevendengue
+      - https://github.com/stevendengue

@@ -1,0 +1,45 @@
+---
+layout: default
+title: Research Projects
+notitle: true
+---
+
+<p style="padding-top:10pt; padding-bottom:10pt;">
+Founded in May 2019 by Dr Steve Ndengue, the scientific interests of the QDRG cover the fields of atomic, molecular, chemical and condensed matter physics.
+A common trend in our research involves solving the Schrödinger equation with state-of-the-art numerical methods in order to understand the structure and dynamics of atoms, molecules and materials under various conditions. 
+The application fields of these studies are multidisciplinary and cover a wide range of domains such as atmospheric chemistry, combustion, astrophysics/astrochemistry as well as catalysis. 
+In the past, we have worked on several projects such as the confinement of atoms and molecules and the photochemistry of molecules of atmospheric interest.
+More recently the collisional dynamics of molecular systems, method development in quantum dynamics and heterogeneous catalysis are becoming the major research directions of our group.
+We are using the  <A HREF="http://mctdh.uni-hd.de"> Heidelberg MCTDH package</A> in our research.
+The MultiConfiguration Time Dependent Hartree (MCTDH) method is a very efficient approach to solve the Schrödinger equation in high dimensionality.
+Check our projects to learn more about our research.
+</p>
+
+<!-- <h2>Calls for Participants</h2> -->
+<ul class="news list-unstyled">
+    {% for post in site.posts %}
+        {% if post.type == "call-for-participants" %}
+            {% include call-for-participants-item.html item=post %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 style="padding-bottom:10pt;">Current Projects</h2>
+<div class="card-columns" style="padding-bottom:10pt;">
+    {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
+    {% assign projects_by_date = projects_by_date | reverse %}
+    {% for p in projects_by_date %}
+        {% include project-card.html project=p %}
+    {% endfor %}
+</div>
+
+<!--
+<h2 style="padding-bottom:10pt;">Past Projects</h2>
+<div class="card-columns" style="padding-bottom:10pt;">
+    {% assign projects_by_date = site.past-projects | sort: 'last-updated', 'first' %}
+    {% assign projects_by_date = projects_by_date | reverse %}
+    {% for p in projects_by_date %}
+        {% include project-card.html project=p %}
+    {% endfor %}
+</div>
+-->
