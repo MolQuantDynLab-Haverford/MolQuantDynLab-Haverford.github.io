@@ -14,7 +14,9 @@ layout: project
 last-updated: 2021-06-05
 ---
 
+<!---
 <img style="padding-top:5pt;" src="https://care.hw.ac.uk/img/logos/ukri-tas.png" height="60pt">
+--->
 
 ## About
 
@@ -22,4 +24,6 @@ Our group is interested in the observation and prediction of phenomena related t
 
 ## Links
 
+<!---
 1. <a href="https://www.tas.ac.uk/current-research-projects/open-tas/">OPEN-TAS Project Website</a>
+--->

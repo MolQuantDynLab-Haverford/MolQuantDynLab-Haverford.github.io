@@ -13,11 +13,13 @@ layout: project
 last-updated: 2021-03-24
 ---
 
+<!--- 
 <img style="padding-top:5pt;" src="https://care.hw.ac.uk/img/logos/royal-society.png" height="60pt">
+--->
 
 ## About
 
-<p>
+<!--- <p>
 The project will build on the complementary strengths among Robotics and AI researchers at Heriot-Watt University (HWU) and experts in autonomous agents and machine ethics at University College Dublin (UCD), to investigate the requirements, the feasibility, and the potential of ethical machines methods in the context of Robotics for Ambient Assisted Living (AAL) applications.
 </p>
 
@@ -36,7 +38,9 @@ Specific objectives over the next two years include:
 </p>
 
 This project is funded through 'International Exchanges' programme of The Royal Society.
-
+--->
 ## Links
 
+<!--- 
 1. <a href="https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/">International Exchanges - The Royal Society</a>
+--->

@@ -19,4 +19,6 @@ Our group is interested in the characterization of molecular systems relevant in
 
 ## Links
 
+<!---
 1. <a href="https://ralt.hw.ac.uk/openaal.html">OpenAAL on the Robotic Assisted Living Testbed (RALT) website</a>
+--->
