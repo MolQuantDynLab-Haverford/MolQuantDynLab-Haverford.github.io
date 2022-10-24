@@ -50,6 +50,22 @@ angebenise-niyikiza:
     altbio: Master's Student
     year: 2021
 
+jeanpaul-nshuti:
+    display_name: "Jean Paul Nshuti"
+    role: msc
+    image: /img/people/jeanpaul-nshuti.jpeg
+    bio: October 2022 - Present
+    altbio: Master's Student
+    year: 2022
+
+jeanrodrigue-bitsinda:
+    display_name: "Jean Rodrigue Bitsinda Ikuzwe"
+    role: msc
+    image: /img/people/jeanrodrigue-bitsinda.jpg
+    bio: October 2022 - Present
+    altbio: Master's Student
+    year: 2022
+
 fabien-gatti:
     display_name: "Fabien Gatti"
     webpage: "http://www.ismo.universite-paris-saclay.fr/spip.php?rubrique413&lang=fr"
