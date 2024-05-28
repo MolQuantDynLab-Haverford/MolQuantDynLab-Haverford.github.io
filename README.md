@@ -1,5 +1,5 @@
 # qdrg-eaifr.github.io
-Website of the Quantum Dynamics Research Group at ICTP-EAIFR.
+Website of the (Molecular) Quantum Dynamics Lab at Haverford College.
 
 Accessible at: <a href="https://qdrg-eaifr.github.io">https://qdrg-eaifr.github.io</a>
 
