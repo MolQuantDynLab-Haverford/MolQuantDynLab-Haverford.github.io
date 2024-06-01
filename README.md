@@ -1,4 +1,4 @@
-# qdrg-eaifr.github.io
+# MolQuantDynLab-Haverford.github.io
 Website of the (Molecular) Quantum Dynamics Lab at Haverford College.
 
 <!--- Accessible at: <a href="https://qdrg-eaifr.github.io">https://qdrg-eaifr.github.io</a> --->
