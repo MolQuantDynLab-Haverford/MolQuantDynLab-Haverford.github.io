@@ -1,5 +1,5 @@
 name:  MolQuantDyn@Haverford
-url: https://eaifr.org/
+url: https://www.haverford.edu/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
