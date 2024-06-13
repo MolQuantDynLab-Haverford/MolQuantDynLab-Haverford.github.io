@@ -1,4 +1,4 @@
-name:  MolQuantDyn@Haverford
+title:  MolQuantDyn@Haverford
 url: https://www.haverford.edu/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
