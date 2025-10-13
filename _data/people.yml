@@ -7,24 +7,58 @@ steve-ndengue:
     webpage: "/people/steve_ndengue.html"
     role: faculty
     image: /img/people/steve-ndengue.jpg
-    bio: Senior Lecturer (PI)
+    bio: Assistant Professor (PI)
     altbio: Senior Lecturer
+
+micah-lachman:
+    display_name: "Micah Lachman"
+    webpage: "/people/micah_lachman.html"
+    role: senior-thesis
+    image: /img/people/haverford_squirrel.jpeg
+    bio: January 2025 - Present
+    altbio: Senior Thesis Student
+
+owen-gill:
+    display_name: "Owen Gill"
+    webpage: "/people/owen_gill.html"
+    role: senior-thesis
+    image: /img/people/haverford_squirrel.jpeg
+    bio: June 2025 - Present
+    altbio: Senior Thesis Student
+
+zaid-sbaiti:
+    display_name: "Zaid Sbaiti"
+    webpage: "/people/zaid_sbaiti.html"
+    role: student-researcher
+    image: /img/people/haverford_squirrel.jpeg
+    bio: June 2025 - Present
+    altbio: Research Student
+
+ellie-park:
+    display_name: "Ellie Park"
+    webpage: "/people/ellie_park.html"
+    role: student-researcher
+    image: /img/people/haverford_squirrel.jpeg
+    bio: September 2024 - Present
+    altbio: Research Student
 
 ayda-badri:
     display_name: "Ayda Badri"
-    webpage: "/people/ayda_badri.html"
-    role: postdoc
+#    webpage: "/people/ayda_badri.html"
+    role: alum
     image: /img/people/ayda-badri.jpeg
-    bio: November 2021 - Present
+    bio: Postdoc (Curr. Postdoc SNS Pisa)
     altbio: Postdoctoral Fellow
+    year: 2021-2022
 
 herve-tajouotela:
     display_name: "Herve Tajouo Tela"
-    webpage: "/people/herve_tajouotela.html"
-    role: grad
+#    webpage: "/people/herve_tajouotela.html"
+    role: alum
     image: /img/people/herve-tajouotela.jpg
-    bio: January 2020 - Present
+    bio: PhD Student (Curr. Postdoc SNS Pisa)
     altbio: PhD Student
+    year: 2020-2024
 
 sosthene-irambona:
     display_name: "Sosthene Irambona"
@@ -34,43 +68,42 @@ sosthene-irambona:
     bio: November 2021 - Present
     altbio: PhD Student
 
-wala-elsayed:
-    display_name: "Wala Elsayed"
-    webpage: "/people/wala_elsayed.html"
-    role: grad
-    image: /img/people/wala-elsayed.jpg
-    bio: March 2022 - Present
-    altbio: PhD Student
+#wala-elsayed:
+#    display_name: "Wala Elsayed"
+#    role: alum
+#    image: /img/people/wala-elsayed.jpg
+#    bio: March 2022 - Present
+#    altbio: PhD Student
 
 angebenise-niyikiza:
     display_name: "Ange Benise Niyikiza"
-    role: msc
+    role: alum
     image: /img/people/angebenise-niyikiza.jpg
-    bio: March 2022 - Present
+    bio: MSc Student (Curr. PhD Student Univ Houston)
     altbio: Master's Student
-    year: 2021
+    year: 2022
 
 jeanpaul-nshuti:
     display_name: "Jean Paul Nshuti"
-    role: msc
+    role: alum
     image: /img/people/jeanpaul-nshuti.jpeg
-    bio: October 2022 - Present
+    bio: MSc Student (Curr. PhD Student Univ Rennes)
     altbio: Master's Student
-    year: 2022
+    year: 2023
 
-jeanrodrigue-bitsinda:
-    display_name: "Jean Rodrigue Bitsinda Ikuzwe"
-    role: msc
-    image: /img/people/jeanrodrigue-bitsinda.jpg
-    bio: October 2022 - Present
-    altbio: Master's Student
-    year: 2022
+#jeanrodrigue-bitsinda:
+#    display_name: "Jean Rodrigue Bitsinda Ikuzwe"
+#    role: alum
+#    image: /img/people/jeanrodrigue-bitsinda.jpg
+#    bio: October 2022 - Present
+#    altbio: Master's Student
+#    year: 2022
 
 fabien-gatti:
     display_name: "Fabien Gatti"
     webpage: "http://www.ismo.universite-paris-saclay.fr/spip.php?rubrique413&lang=fr"
     role: collab
-    bio: Université Paris-Saclay and CNRS
+    bio: Université Bourgogne Europe and CNRS
     year: Research Professor
     #altbio: Université Paris-Saclay and CNRS
 
@@ -102,8 +135,8 @@ omololu-akinojo:
     display_name: "Omololu Akin-Ojo"
     webpage: "https://eaifr.ictp.it/about/director/"
     role: collab
-    bio: ICTP-EAIFR
-    year: Director
+    bio: University of Ibadan
+    year: Professor
     #altbio: ICTP-EAIFR
 
 # ***************************************************

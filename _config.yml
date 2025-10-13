@@ -19,16 +19,20 @@ future: true
 roles:
   - key: faculty
     name: Academic Faculty
-  - key: postdoc
-    name: Postdoctoral Researchers
+  #- key: postdoc
+  #  name: Postdoctoral Researchers
   - key: grad
     name: Doctoral Students
-  - key: msc
-    name: Master's Students
+  #- key: msc
+  #  name: Master's Students
   - key: collab
     name: Collaborators
-  #- key: alum
-  #  name: Alumni
+  - key: alum
+    name: Alumni
+  - key: senior-thesis
+    name: Senior Thesis
+  - key: student-researcher
+    name: Student Researcher
   #- key: research-assistant
   #  name: Research Assistants
   #- key: research-associate
@@ -83,5 +87,5 @@ plugins:
 social:
     name: Steve Ndengue
     links:
-      - https://twitter.com/stevendengue
+#      - https://twitter.com/stevendengue
       - https://github.com/stevendengue

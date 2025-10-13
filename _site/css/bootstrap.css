@@ -3909,8 +3909,7 @@ tbody.collapse.show {
 .nav-pills .show > .nav-link {
   color: #fff;
   /* background-color: #007bff; */
-  /* background-color: #8B0000; */
-  background-color: #EA580D;
+  background-color: #8B0000; /* #EA580D */
 }
 
 .nav-fill .nav-item {

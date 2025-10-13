@@ -7,12 +7,10 @@ description: |
 
 people:
   - steve-ndengue
-  - ayda-badri
   - sosthene-irambona
-  - wala-elsayed
 
 layout: project
-last-updated: 2020-03-25
+last-updated: 2025-10-12
 ---
 
 <!---

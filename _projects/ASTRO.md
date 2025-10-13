@@ -7,11 +7,10 @@ description: |
 
 people:
   - steve-ndengue
-  - herve-tajouotela
-  - ayda-badri
+  - ellie-park
 
 layout: project
-last-updated: 2021-06-05
+last-updated: 2025-10-12
 ---
 
 <!---

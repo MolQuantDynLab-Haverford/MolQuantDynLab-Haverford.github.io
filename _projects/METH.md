@@ -7,10 +7,12 @@ description: |
 
 people:
   - steve-ndengue
-  - herve-tajouotela
+  - micah-lachman
+  - zaid-sbaiti
+  - owen-gill
 
 layout: project
-last-updated: 2021-03-24
+last-updated: 2025-10-12
 ---
 
 <!--- 

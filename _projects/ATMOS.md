@@ -7,7 +7,6 @@ description: |
 
 people:
   - steve-ndengue
-  - angebenise-niyikiza
 
 layout: project
 last-updated: 2020-03-25
