@@ -10,20 +10,12 @@ steve-ndengue:
     bio: Assistant Professor (PI)
     altbio: Senior Lecturer
 
-micah-lachman:
-    display_name: "Micah Lachman"
-    webpage: "/people/micah_lachman.html"
+ellie-park:
+    display_name: "Ellie Park"
+    webpage: "/people/ellie_park.html"
     role: senior-thesis
     image: /img/people/haverford_squirrel.jpeg
-    bio: January 2025 - Present
-    altbio: Senior Thesis Student
-
-owen-gill:
-    display_name: "Owen Gill"
-    webpage: "/people/owen_gill.html"
-    role: senior-thesis
-    image: /img/people/haverford_squirrel.jpeg
-    bio: June 2025 - Present
+    bio: September 2024 - Present
     altbio: Senior Thesis Student
 
 zaid-sbaiti:
@@ -34,12 +26,36 @@ zaid-sbaiti:
     bio: June 2025 - Present
     altbio: Research Student
 
-ellie-park:
-    display_name: "Ellie Park"
-    webpage: "/people/ellie_park.html"
+lann-wallace:
+    display_name: "Lann Wallace"
+    webpage: "/people/lann_wallace.html"
     role: student-researcher
     image: /img/people/haverford_squirrel.jpeg
-    bio: September 2024 - Present
+    bio: January 2026 - Present
+    altbio: Research Student
+
+yijin-yuan:
+    display_name: "Yijin Yuan"
+    webpage: "/people/yijin_yuan.html"
+    role: student-researcher
+    image: /img/people/haverford_squirrel.jpeg
+    bio: January 2026 - Present
+    altbio: Research Student
+
+conrad-seib-levinson:
+    display_name: "Conrad Seib-Levinson"
+    webpage: "/people/conrad_seib-levinson.html"
+    role: student-researcher
+    image: /img/people/haverford_squirrel.jpeg
+    bio: January 2026 - Present
+    altbio: Research Student
+
+ivan-paiewonsky:
+    display_name: "Ivan Paiewonsky"
+    webpage: "/people/ivan_paiewonsky.html"
+    role: student-researcher
+    image: /img/people/haverford_squirrel.jpeg
+    bio: January 2026 - Present
     altbio: Research Student
 
 ayda-badri:
@@ -90,6 +106,24 @@ jeanpaul-nshuti:
     bio: MSc Student (Curr. PhD Student Univ Rennes)
     altbio: Master's Student
     year: 2023
+
+micah-lachman:
+    display_name: "Micah Lachman"
+    webpage: "/people/micah_lachman.html"
+    role: alum
+    image: /img/people/haverford_squirrel.jpeg
+    bio: Senior Thesis Student
+    altbio: Senior Thesis Student
+    year: 2025-2026
+
+owen-gill:
+    display_name: "Owen Gill"
+    webpage: "/people/owen_gill.html"
+    role: alum
+    image: /img/people/haverford_squirrel.jpeg
+    bio: Senior Thesis Student
+    altbio: Senior Thesis Student
+    year: 2025-2026
 
 #jeanrodrigue-bitsinda:
 #    display_name: "Jean Rodrigue Bitsinda Ikuzwe"
