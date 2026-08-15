@@ -18,6 +18,14 @@ ellie-park:
     bio: September 2024 - Present
     altbio: Senior Thesis Student
 
+heshu-yin:
+    display_name: "Heshu Yin"
+    webpage: "/people/heshu_yin.html"
+    role: senior-thesis
+    image: /img/people/haverford_squirrel.jpeg
+    bio: January 2026 - Present
+    altbio: Senior Thesis Student
+
 zaid-sbaiti:
     display_name: "Zaid Sbaiti"
     webpage: "/people/zaid_sbaiti.html"
