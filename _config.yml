@@ -1,5 +1,5 @@
 title:  MolQuantDyn@Haverford
-url: https://www.haverford.edu/
+url: https://molquantdynlab-haverfordcollege.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -77,6 +77,7 @@ navigation:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 # Social
 social:
