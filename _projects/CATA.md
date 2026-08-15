@@ -24,4 +24,4 @@ Our catalysis research uses classical and quantum dynamics methods to understand
 One ongoing initiative in this area is <a href="{{ site.base }}/research/exaf.html">Embedded exact quantum dynamics for water splitting</a>, part of the Excellence in Africa (EXAF) program, which develops multi-scale quantum dynamics methods to study the photochemical processes behind photocatalytic water splitting.
 </p>
 
-## Links
+## Representative Work

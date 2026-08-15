@@ -1,5 +1,5 @@
 ---
-title: METHOD DEVELOPMENT IN MQD
+title: METHOD DEVELOPMENT IN MQD AND QC
 notitle: false
 order: 1
 
@@ -42,7 +42,7 @@ Specific objectives over the next two years include:
 
 This project is funded through 'International Exchanges' programme of The Royal Society.
 --->
-## Links
+## Representative Work
 
 <!--- 
 1. <a href="https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/">International Exchanges - The Royal Society</a>
