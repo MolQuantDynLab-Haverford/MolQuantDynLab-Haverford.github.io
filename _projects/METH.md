@@ -47,7 +47,7 @@ This project is funded through 'International Exchanges' programme of The Royal 
 --->
 ## Representative Work
 
-1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S000926141830962X">Intermolecular rovibrational bound states of H2O-H2 dimer from a MultiConfiguration Time Dependent Hartree approach</a>, Chemical Physics Letters (2019).
-2. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0009261416309617">Atom-Triatom Rigid Rotor Inelastic Scattering with the MultiConfiguration Time Dependent Hartree (MCTDH) approach</a>, Chemical Physics Letters (2017).
-3. <a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2015.1096974">Automated Construction of Potential Energy Surfaces</a>, Molecular Physics (2016).
-4. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b04642">Resonances of HCO computed using an approach based on the Multiconfiguration Time Dependent Hartree Method</a>, The Journal of Physical Chemistry A (2015).
+1. <a href="https://www.sciencedirect.com/science/article/abs/pii/S000926141830962X">Intermolecular rovibrational bound states of H2O-H2 dimer from a MultiConfiguration Time Dependent Hartree approach</a>, Chem. Phys. Lett. (2019).
+2. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0009261416309617">Atom-Triatom Rigid Rotor Inelastic Scattering with the MultiConfiguration Time Dependent Hartree (MCTDH) approach</a>, Chem. Phys. Lett. (2017).
+3. <a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2015.1096974">Automated Construction of Potential Energy Surfaces</a>, Mol. Phys. (2016).
+4. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b04642">Resonances of HCO computed using an approach based on the Multiconfiguration Time Dependent Hartree Method</a>, J. Phys. Chem. A (2015).

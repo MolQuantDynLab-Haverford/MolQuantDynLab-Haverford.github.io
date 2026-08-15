@@ -32,13 +32,10 @@ Check our projects to learn more about our research.
     {% endfor %}
 </div>
 
-<!--
 <h2 style="padding-bottom:10pt;">Past Projects</h2>
-<div class="card-columns" style="padding-bottom:10pt;">
-    {% assign projects_by_date = site.past-projects | sort: 'last-updated', 'first' %}
-    {% assign projects_by_date = projects_by_date | reverse %}
-    {% for p in projects_by_date %}
+<div class="project-stack" style="padding-bottom:10pt;">
+    {% assign past_projects_by_order = site.past-projects | sort: 'order' %}
+    {% for p in past_projects_by_order %}
         {% include project-card.html project=p %}
     {% endfor %}
 </div>
--->
