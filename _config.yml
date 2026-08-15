@@ -78,11 +78,6 @@ navigation:
 # Google Analytics
 google_analytics: G-P2QM29HGLX
 
-# Public visitor map (ClustrMaps). Sign up free at https://clustrmaps.com,
-# add this site, and paste the "d=" id from your widget code below.
-# Leave blank to keep the map disabled.
-clustrmaps_id: ""
-
 # Plugins
 plugins:
   - jekyll-seo-tag

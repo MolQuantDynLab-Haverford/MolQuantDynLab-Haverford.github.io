@@ -40,14 +40,6 @@
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
-
-        {% if site.clustrmaps_id != "" %}
-        var cmScript = document.createElement('script');
-        cmScript.async = true;
-        cmScript.id = 'clustrmaps';
-        cmScript.src = '//clustrmaps.com/map_v2.js?d={{ site.clustrmaps_id }}&t=n';
-        document.getElementById('clustrmaps-widget').appendChild(cmScript);
-        {% endif %}
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
