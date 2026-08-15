@@ -75,9 +75,6 @@ navigation:
 #  - title: Our Testbed
 #    link: https://ralt.hw.ac.uk/
 
-# Google Analytics
-google_analytics: G-P2QM29HGLX
-
 # Plugins
 plugins:
   - jekyll-seo-tag
