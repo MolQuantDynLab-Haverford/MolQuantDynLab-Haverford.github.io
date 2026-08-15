@@ -143,7 +143,7 @@ owen-gill:
 
 fabien-gatti:
     display_name: "Fabien Gatti"
-    webpage: "http://www.ismo.universite-paris-saclay.fr/spip.php?rubrique413&lang=fr"
+    webpage: "https://icb.cnrs.fr/equipe/gatti-fabien/"
     role: collab
     bio: Université Bourgogne Europe and CNRS
     year: Research Professor
@@ -151,7 +151,7 @@ fabien-gatti:
 
 richard-dawes:
     display_name: "Richard Dawes"
-    webpage: "https://web.mst.edu/~dawesr/"
+    webpage: "https://hpc.mst.edu/members/profile-richarddawes/"
     role: collab
     bio: NSF and Missouri S&T
     year: Program Manager
@@ -167,19 +167,19 @@ nicola-marzari:
 
 neepa-maitra:
     display_name: "Neepa Maitra"
-    webpage: "https://sasn.rutgers.edu/about-us/faculty-staff/neepa-maitra"
+    webpage: "https://sites.rutgers.edu/maitra-group/"
     role: collab
     bio: Rutgers University-Newark
     year: Professor
     #altbio: Rutgers-Newark University
 
-omololu-akinojo:
-    display_name: "Omololu Akin-Ojo"
-    webpage: "https://eaifr.ictp.it/about/director/"
-    role: collab
-    bio: University of Ibadan
-    year: Professor
-    #altbio: ICTP-EAIFR
+#omololu-akinojo:
+#    display_name: "Omololu Akin-Ojo"
+#    webpage: "https://eaifr.ictp.it/about/director/"
+#    role: collab
+#    bio: University of Ibadan
+#    year: Professor
+#    #altbio: ICTP-EAIFR
 
 # ***************************************************
 # OTHER PROFILE TYPE TEMPLATES

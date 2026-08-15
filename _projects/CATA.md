@@ -3,7 +3,7 @@ title: CATALYSIS
 notitle: false
 
 description: |
-  We use classical and quantum dynamics approach to understand at a fundamental heterogeneous catalytic processes.
+  We use classical and quantum dynamics approaches to understand, at a fundamental level, heterogeneous catalytic processes.
 
 people:
   - steve-ndengue
