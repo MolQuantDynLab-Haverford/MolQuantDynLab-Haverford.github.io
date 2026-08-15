@@ -1,6 +1,7 @@
 ---
-title: ASTROPHYSICS/CHEMISTRY
+title: ASTROPHYSICS - ASTROCHEMISTRY
 notitle: false
+order: 2
 
 description: |
   Quantum calculations of cross-sections and rates for predicting laboratory and space observations.

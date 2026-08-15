@@ -104,6 +104,12 @@ ul.news {
     .role.alum      { column-count: 2 }
 }
 
+/* Current Projects: one full-width block per project, stacked. */
+.project-stack .card {
+    width: 100%;
+    margin-bottom: 1.25rem;
+}
+
 @media (min-width: 768px) {
     .role.grad      { column-count: 1 }
     .project-people { column-count: 3 }

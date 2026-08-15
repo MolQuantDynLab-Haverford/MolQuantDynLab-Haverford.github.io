@@ -1,6 +1,7 @@
 ---
-title: METHOD DEVELOPMENT
+title: METHOD DEVELOPMENT IN MQD
 notitle: false
+order: 1
 
 description: |
   We work of developing methods and strategies for approapriate PES representation and quantum dynamical simulations.
