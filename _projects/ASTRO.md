@@ -26,8 +26,8 @@ Our group is interested in the observation and prediction of phenomena related t
 
 ## Representative Work
 
-1. <a href="https://pubs.aip.org/aip/jcp/article/165/5/054303/3400225">Inelastic scattering of H2CCO ketene induced by He atoms and non-LTE analysis</a>, J. Chem. Phys. (2026).
-2. <a href="https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02236c">Rigid rotor state-to-state cross-sections and rates of the PH3+H2 collision</a>, Phys. Chem. Chem. Phys. (2025).
-3. <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jpca.5c02638">A New Potential Energy Surface of the PO+-H2 Complex and Intermolecular Rovibrational State Calculations</a>, J. Phys. Chem. A (2025).
+1. <a href="https://pubs.aip.org/aip/jcp/article/165/5/054303/3400225">Inelastic scattering of H2CCO ketene induced by He atoms and non-LTE analysis</a>, JCP (2026).
+2. <a href="https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02236c">Rigid rotor state-to-state cross-sections and rates of the PH3+H2 collision</a>, PCCP (2025).
+3. <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jpca.5c02638">A New Potential Energy Surface of the PO+-H2 Complex and Intermolecular Rovibrational State Calculations</a>, JPCA (2025).
 4. <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.052807">Temperature-dependent rotationally inelastic collisions of OH- and He</a>, Phys. Rev. A (2021).
-5. <a href="https://aip.scitation.org/doi/10.1063/5.0017697">Theoretical investigation of the H+HD→D+H2 chemical reaction for astrophysical applications: A state-to-state quasi-classical study</a>, J. Chem. Phys. (2020).
+5. <a href="https://aip.scitation.org/doi/10.1063/5.0017697">Theoretical investigation of the H+HD→D+H2 chemical reaction for astrophysical applications: A state-to-state quasi-classical study</a>, JCP (2020).
