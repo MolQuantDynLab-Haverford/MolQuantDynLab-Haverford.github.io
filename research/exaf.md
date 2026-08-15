@@ -12,7 +12,10 @@ people:
 
 layout: project
 last-updated: 2021-06-05
+permalink: /research/exaf.html
 ---
+
+<p><a href="{{ site.base }}/research.html">&larr; Back to Research</a> &middot; part of our <a href="{{ site.base }}/research.html#catalysis">Catalysis</a> work</p>
 
 <img style="padding-top:5pt;" src="/img/logos/UM6P-EPFL.png" height="80pt">
 
