@@ -19,9 +19,9 @@ Early work in the group looked at how confining an atom or molecule in a restric
 
 ## Representative Work
 
-1. <a href="https://iopscience.iop.org/article/10.1088/0953-4075/41/4/045001/meta">Electric response of endohedrally confined hydrogen atoms</a>, J. Phys. B (2008).
-2. <a href="https://link.springer.com/article/10.1140/epjd/e2009-00222-6">Electron-electron interaction effects in heliumlike atoms confined in finite external square-well potential</a>, Eur. Phys. J. D (2009).
+1. <a href="https://iopscience.iop.org/article/10.1088/0953-4075/41/4/045001/meta">Electric response of endohedrally confined hydrogen atoms</a>, JPB (2008).
+2. <a href="https://link.springer.com/article/10.1140/epjd/e2009-00222-6">Electron-electron interaction effects in heliumlike atoms confined in finite external square-well potential</a>, EJPD (2009).
 3. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.22996">Static and dynamic dipole polarizabilities and electron density at origin: Ground and excited states of hydrogen atom confined in multiwalled fullerenes</a>, IJQC (2011).
-4. <a href="https://iopscience.iop.org/article/10.1088/0953-4075/47/1/015002/meta">Electronic structure of a cylindrically confined hydrogen atom by the B-splines method: energy levels and dipole polarizability</a>, J. Phys. B (2014).
+4. <a href="https://iopscience.iop.org/article/10.1088/0953-4075/47/1/015002/meta">Electronic structure of a cylindrically confined hydrogen atom by the B-splines method: energy levels and dipole polarizability</a>, JPB (2014).
 5. <a href="https://link.springer.com/chapter/10.1007/978-3-319-09982-8_7">Spatial and Shell-Confined One Electron Atomic and Molecular Systems: Structure and Dipole Polarizability</a>, Springer (2014).
-6. <a href="https://iopscience.iop.org/article/10.1088/0953-4075/48/21/215001/meta">Polarizability of off-center spherically confined hydrogen atom</a>, J. Phys. B (2015).
+6. <a href="https://iopscience.iop.org/article/10.1088/0953-4075/48/21/215001/meta">Polarizability of off-center spherically confined hydrogen atom</a>, JPB (2015).

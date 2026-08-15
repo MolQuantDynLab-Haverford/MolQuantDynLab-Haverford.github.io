@@ -28,4 +28,4 @@ Our group is interested in the characterization of molecular systems relevant in
 7. <a href="https://aip.scitation.org/doi/10.1063/1.4954374">A new set of Potential Energy Surfaces for HCO: Influence of Renner-Teller coupling on the bound and resonance vibrational states</a>, JCP (2016).
 8. <a href="https://aip.scitation.org/doi/10.1063/1.4941559">Calculated vibrational states of ozone up to dissociation</a>, JCP (2016).
 9. <a href="https://aip.scitation.org/doi/10.1063/1.4929707">Vibrational energy levels of the simplest Criegee intermediate (CH2OO) from full-dimensional quantum and MCTDH calculation</a>, JCP (2015).
-10. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2013JD020033">Ozone photolysis: Strong isotopologue/isotopomer selectivity in the stratosphere</a>, J. Geophys. Res. Atmos. (2014).
+10. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2013JD020033">Ozone photolysis: Strong isotopologue/isotopomer selectivity in the stratosphere</a>, JGRA (2014).
