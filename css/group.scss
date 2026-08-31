@@ -71,15 +71,15 @@ a > .fa {
 }
 
 .affiliation {
-    width: 180px;
-    height: auto;
+    width: auto;
+    height: 42px;
     margin-top: 0px;
     margin-bottom: 15px;
 }
 
 @media only screen and (max-device-width: 600px) {
     .affiliation {
-        width: 140px;
+        height: 32px;
     }
 }
 
